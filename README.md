@@ -1,4 +1,4 @@
-## Data Visualization Project
+# Data Visualization Project
 How Covid-19 impacted the US Economy, and the prospect
 
 # Importance of Topic:
